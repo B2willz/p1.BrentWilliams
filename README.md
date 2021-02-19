@@ -4,7 +4,8 @@ Project 1 URL: https://github.com/B2willz/p1.BrentWilliams.git
 
 Photos of control interface:
 
-![Alt Text]()
+![Microwave_1](https://user-images.githubusercontent.com/55467685/108459988-47e9ac80-723d-11eb-956e-46e6f172bce0.jpg)
+
 
 
 Gif Image of interface operation:
