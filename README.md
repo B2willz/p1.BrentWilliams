@@ -12,7 +12,7 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
-![Alt Text](https://media.giphy.com/media/0nFygpUmw4KldAjE0b/giphy.gif)
+![p1.Brent.Williams.gif](https://media.giphy.com/media/0nFygpUmw4KldAjE0b/giphy.gif)
 
 
 Issues with current design and reasoning.
