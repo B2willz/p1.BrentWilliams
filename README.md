@@ -12,7 +12,7 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
-![Alt Text](https://imgur.com/eOZX86Q.gifv)
+![Alt Text](<iframe class="imgur-embed" width="100%" height="500" frameborder="0" src="https://i.imgur.com/eOZX86Q.gifv#embed"></iframe>)
 
 
 Issues with current design and reasoning.
