@@ -20,6 +20,10 @@ Project 1 URL: https://github.com/B2willz/p1.BrentWilliams.git
 
 
 # Issues with current design and reasoning:
-
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 
