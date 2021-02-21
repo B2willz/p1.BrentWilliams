@@ -16,5 +16,9 @@ Gif Image of interface operation:
 
 
 
-Issues with current design and reasoning.
+Issues with current design and reasoning:
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
