@@ -12,6 +12,7 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
+![](https://imgur.com/eOZX86Q)
 
 
 Issues with current design and reasoning.
