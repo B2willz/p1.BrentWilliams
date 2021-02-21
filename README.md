@@ -20,7 +20,7 @@ Project 1 URL: https://github.com/B2willz/p1.BrentWilliams.git
 
 
 # Issues with current design and reasoning:
-   1. The button layout for the numbers is inconvenient. I find myself always cooking food in this microwave for about 1-3 minutes on the average case. The only times I use the         numbers 4-9 are when I am setting a timer on the microwave. Since I am using buttons 0-3 more often, I feel like the design would be better if the numbers on the button           layout were rearranged such that it would be like this instead. This way, the buttons I press more frequently are conveniently closer to the start button for this                 microwave.
+   1. The button layout for the numbers is inconvenient. I find myself always cooking food in this microwave for about 1-3 minutes on the average case. The only times I use the         numbers 4-9 are when I am setting a timer on the microwave. Since I am using buttons 0-3 more often, I feel like the design would be better if the numbers on the button           layout were rearranged such that it would be like this instead. This way, the buttons I press more frequently are conveniently closer to the start button for this                 microwave. \n
                               9 8 7 6 5 4 3 2 1 0
                          Left <-----------------> Right
    2. 
