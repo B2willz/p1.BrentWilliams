@@ -2,7 +2,7 @@ Brent M Williams | CS 4331 - 004 | R11630670
 
 Project 1 URL: https://github.com/B2willz/p1.BrentWilliams.git
 
-Photos of control interface:
+# Photos of control interface:
 
 ![Microwave_1](https://user-images.githubusercontent.com/55467685/108459988-47e9ac80-723d-11eb-956e-46e6f172bce0.jpg)
 ![Microwave_2](https://user-images.githubusercontent.com/55467685/108460046-6d76b600-723d-11eb-9e44-67ed240a8fbd.jpg)
@@ -10,15 +10,13 @@ Photos of control interface:
 ![Microwave_4](https://user-images.githubusercontent.com/55467685/108460057-723b6a00-723d-11eb-9eea-1941caccd66e.jpg)
 
 
-Gif Image of interface operation:
+# Gif Image of interface operation:
 
 ![p1 Brent Williams (2)](https://user-images.githubusercontent.com/55467685/108638984-a68a7280-7457-11eb-83db-db82eb548b78.gif)
 
 
 
-Issues with current design and reasoning:
+# Issues with current design and reasoning:
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+
 
