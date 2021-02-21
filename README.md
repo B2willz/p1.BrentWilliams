@@ -12,9 +12,9 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
-![Alt Text](<blockquote class="imgur-embed-pub" lang="en" data-id="a/xpvgY3h" data-context="false" ><a href="//imgur.com/a/xpvgY3h"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Alt Text]()
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xpvgY3h" data-context="false" ><a href="//imgur.com/a/xpvgY3h"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="eOZX86Q"><a href="https://imgur.com/eOZX86Q">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Issues with current design and reasoning.
 
