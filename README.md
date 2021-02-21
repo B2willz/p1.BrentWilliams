@@ -12,9 +12,8 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
-![Alt Text]()
+![p1 Brent Williams](https://user-images.githubusercontent.com/55467685/108638829-c705fd00-7456-11eb-8da5-df0ba77c6ecd.gif)
 
-<<blockquote class="imgur-embed-pub" lang="en" data-id="a/xpvgY3h" data-context="false" ><a href="//imgur.com/a/xpvgY3h"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 Issues with current design and reasoning.
