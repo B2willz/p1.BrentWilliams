@@ -12,7 +12,7 @@ Photos of control interface:
 
 Gif Image of interface operation:
 
-![p1 Brent Williams](https://user-images.githubusercontent.com/55467685/108638829-c705fd00-7456-11eb-8da5-df0ba77c6ecd.gif)
+![p1 Brent Williams (2)](https://user-images.githubusercontent.com/55467685/108638984-a68a7280-7457-11eb-83db-db82eb548b78.gif)
 
 
 
