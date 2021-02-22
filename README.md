@@ -44,6 +44,8 @@ The microwave provides feedback by displaying the time on the digital recetangle
 
 # What are some common mistakes you can make with this current design?
 
+One particular mistake that I usually find myself doing is setting the cooking time when I mean't to set a timer instead since the method of setting a time in general is almost an identical process. The timer button needs to be pressed first to set a timer but sometimes I forget to press it which starts the cooking instead. I feel that I forget to press the timer button since it is so far away from the start button in the UI button placement. Also there are other buttons to the left timer button, however they are incredibly hard to see unless the light button brightens the buttons with a backlight. These buttons are listed as 1-2 words such as "*Potato*" or "*Vegtables*". I personally never use this but the are way to difficult to see even during the daytime. I feel that if they also had images with other foods that were more commonly used and were easier to see, I would use them more often but I rarely ever notice that set of buttons on the far left of the UI. You can barely make them out in the images that I added above.
+
 # Sketch Solution of Suggested Improvements
 
 
