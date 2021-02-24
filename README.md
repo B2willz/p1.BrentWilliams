@@ -49,7 +49,5 @@ One particular mistake that I usually find myself doing is setting the cooking t
 # Sketch Solution of Suggested Improvements
 
 
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+
 
