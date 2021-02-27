@@ -52,4 +52,5 @@ One particular mistake that I usually find myself doing is setting the cooking t
 
 # YouTube Demo
 
+[![HCI Video](https://img.youtube.com/vi/pMbXIMtyS1M/0.jpg)](http://www.youtube.com/watch?v=pMbXIMtyS1M)
 
