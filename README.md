@@ -52,6 +52,4 @@ One particular mistake that I usually find myself doing is setting the cooking t
 
 # YouTube Demo
 
-https://youtu.be/pMbXIMtyS1M
-
 
